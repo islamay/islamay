@@ -46,10 +46,10 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islamay&layout=compact&hide=html,css,scss&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="height:300px;"></div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=islamay&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamay&layout=compact&hide=html,css,scss&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=islamay&show_icons=true&theme=radical" />
+</p>
 
  
