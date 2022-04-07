@@ -5,17 +5,22 @@
 Here are some ideas to get you started:
 
 
-- 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
 <h1 align="center">Hi there 👋, Im Dean Prayoga</h1>
 
-- 🌱 I’m currently learning **Web 3 Development and React Native**
+<h2 align="center">I'm a Full Stack Mobile, and Web Developer, also a Crypto and Web3 Enthusiast!!!</h2>
+
+- 🌱 I’m currently learning **Web 3 and React Native**
+- 👯 I’m currently looking for a **Part-time Job** 😅
+- 📫 How to reach me: islamay.dean@gmail.com
+- 📌 Goals : Contributing more to Open Source and Community
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
